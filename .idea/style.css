@@ -1,0 +1,36 @@
+body {
+  background-image: url("https://cdn.surfer.com./uploads/2017/06/IB.jpg");
+
+}
+
+h1 {
+  font-family: "Wendy One" ;
+  text-align: center;
+  color: darkblue;
+}
+
+h2 {
+  font-family: "Wendy One";
+  text-align: center;
+  color: darkblue;
+}
+
+h3 {
+  font-family: "Wendy One";
+  color: darkblue;
+}
+
+p {
+  font-family: "Libre Barcode 39 Text";
+  text-align: center;
+  color: darkblue;
+}
+
+img {
+  width: 200px;
+}
+
+div {
+  float: left;
+  margin: 5%;
+}
